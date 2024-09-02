@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Odev_2\Odev_2\bin\Debug\net8.0\Odev_2.exe
+C:\Users\User\source\repos\Odev_2\Odev_2\bin\Debug\net8.0\Odev_2.deps.json
+C:\Users\User\source\repos\Odev_2\Odev_2\bin\Debug\net8.0\Odev_2.runtimeconfig.json
+C:\Users\User\source\repos\Odev_2\Odev_2\bin\Debug\net8.0\Odev_2.dll
+C:\Users\User\source\repos\Odev_2\Odev_2\bin\Debug\net8.0\Odev_2.pdb
+C:\Users\User\source\repos\Odev_2\Odev_2\obj\Debug\net8.0\Odev_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Odev_2\Odev_2\obj\Debug\net8.0\Odev_2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Odev_2\Odev_2\obj\Debug\net8.0\Odev_2.AssemblyInfo.cs
+C:\Users\User\source\repos\Odev_2\Odev_2\obj\Debug\net8.0\Odev_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Odev_2\Odev_2\obj\Debug\net8.0\Odev_2.dll
+C:\Users\User\source\repos\Odev_2\Odev_2\obj\Debug\net8.0\refint\Odev_2.dll
+C:\Users\User\source\repos\Odev_2\Odev_2\obj\Debug\net8.0\Odev_2.pdb
+C:\Users\User\source\repos\Odev_2\Odev_2\obj\Debug\net8.0\Odev_2.genruntimeconfig.cache
+C:\Users\User\source\repos\Odev_2\Odev_2\obj\Debug\net8.0\ref\Odev_2.dll
